@@ -1,18 +1,18 @@
 0.1.0
   Updates
-	  Buildcraft			          7.0.17
-	  Botania				            r1.7-208
-	  Magic Bees	              2.3.3
-	  LogisticsPipes            0.9.2.20
+    Buildcraft								7.0.17
+    Botania										r1.7-208
+    Magic Bees								2.3.3
+    LogisticsPipes						0.9.2.20
   Added
-	  GTTweaker			            0.7.2
-	  Mystcraft		              0.12.1.00
+    GTTweaker									0.7.2
+    Mystcraft									0.12.1.00
   Removed
-  	Cartlivery		            ->	Incompatability
-  	NetherOres	            	->	Gregtech
-  	DenseOres           			->	Gregtech
+    Cartlivery		            Incompatability
+    NetherOres	            	Gregtech
+    DenseOres           			Gregtech
   Disabled
-	  Advanced Machines	        ->	Crashing - Looking for fix
+    Advanced Machines					Crashing - Looking for fix
 
 0.0.5   Intial release
   Advanced Machines           Unknown
