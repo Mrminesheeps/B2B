@@ -3,12 +3,12 @@ Back 2 Basics
 ================
 
 - `Advanced Machines <http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907>`_,  AtomicStryker 
-- `-Gravitation Suite- <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915>`_, SeNtiMeL
-- ` -Steve's Addons- <http://www.curse.com/mc-mods/minecraft/226067-steves-addons>`_, Hilburn
-- `-Steve's Factory Manager- <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager>`_, Vswe
-- `-TabbyChat- <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2181597-tabbychat-v1-11-2-smp-chat-overhaul-new-maintainer>`_, Killjoy1221 & RocketMan10404
+- `Gravitation Suite <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915>`_, SeNtiMeL
+- `Steve's Addons <http://www.curse.com/mc-mods/minecraft/226067-steves-addons>`_, Hilburn
+- `Steve's Factory Manager <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager>`_, Vswe
+- `TabbyChat- <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2181597-tabbychat-v1-11-2-smp-chat-overhaul-new-maintainer>`_, Killjoy1221 & RocketMan10404
 - `Advanced Repulsion Systems <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6874>`_, immibis 
-- `Advanced Solar Panels <http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291>>`_, SeNtiMeL 
+- `Advanced Solar Panels <http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291>`_, SeNtiMeL 
 - `Anti Id Conflict <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2387300-say-no-to-id-conflicts-install-anti-id-conflict>`_, elix_x
 - `Antique Atlas <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-1-7-2-1-6-4-1-5-2-forge-antique-atlas>`_, Hunternif
 - `Applied Energistics <http://ae-mod.info/>`_, AlgorithmX2
