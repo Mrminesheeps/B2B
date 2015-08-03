@@ -1,12 +1,7 @@
 ================
 Back 2 Basics
 ================
-
-- `Advanced Machines <http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907>`_,  AtomicStryker 
-- `Gravitation Suite <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915>`_, SeNtiMeL
-- `Steve's Addons <http://www.curse.com/mc-mods/minecraft/226067-steves-addons>`_, Hilburn
-- `Steve's Factory Manager <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager>`_, Vswe
-- `TabbyChat- <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2181597-tabbychat-v1-11-2-smp-chat-overhaul-new-maintainer>`_, Killjoy1221 & RocketMan10404
+- `Advanced Machines <http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907>`_, AtomicStryker 
 - `Advanced Repulsion Systems <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6874>`_, immibis 
 - `Advanced Solar Panels <http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291>`_, SeNtiMeL 
 - `Anti Id Conflict <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2387300-say-no-to-id-conflicts-install-anti-id-conflict>`_, elix_x
@@ -33,6 +28,7 @@ Back 2 Basics
 - `Forestry <http://forestry.sengir.net/wiki.new/doku.php>`_, SirSengir
 - `Forge Multipart <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>`_, Chickenbones
 - `Funky Locomotion <http://www.curse.com/mc-mods/minecraft/224190-funky-locomotion>`_, RWTema
+- `Gravitation Suite <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915>`_, SeNtiMeL
 - `Gravity Gun <http://ichun.us/mods/gravity-gun/>`_, iChun
 - `GregTech 5 Unofficial Port <http://forum.industrial-craft.net/index.php?page=Thread&threadID=11488>`_, Blood Asp
 - `IchunUtil <http://ichun.us/mods/ichun-util/>`_, iChun
@@ -58,7 +54,6 @@ Back 2 Basics
 - `Obsidiplates <http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/>`_, Myrathi
 - `Open Computers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293018-opencomputers-v1-3-3>`_, Sangar
 - `Open Mods Lib <http://www.openblocks.info/>`_, Mikeemoo & boq
-- `Open Mods Lib <http://www.openblocks.info/>`_, Mikeemoo & boq
 - `Open Peripheral Addons <http://www.openblocks.info/>`_, OpenMods Team
 - `Open Peripheral Core <http://www.openblocks.info/>`_, Mikeemoo & boq
 - `Portal Gun <http://ichun.us/mods/gravity-gun/>`_, iChun
@@ -66,9 +61,12 @@ Back 2 Basics
 - `Railcraft <http://www.railcraft.info/>`_, CovertJaguar
 - `Router Reborn <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176322-router-reborn-1-1-6>`_, TomEVoll
 - `Soul Shards: The Old Ways <http://www.curse.com/mc-mods/minecraft/226958-soul-shards-the-old-ways>`_, SgtPunishment & unstoppableN & TehNutJenkins
+- `Steve's Addons <http://www.curse.com/mc-mods/minecraft/226067-steves-addons>`_, Hilburn
 - `Steve's Carts 2 <http://stevescarts2.wikispaces.com/>`_, Vswe
+- `Steve's Factory Manager <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager>`_, Vswe
 - `Storage Drawers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-updated-sep-01-14>`_, jaquadro
 - `Storage Drawers: Forestry Pack <http://minecraft.curseforge.com/mc-mods/231147-storage-drawers-forestry-pack>`_, jaquadro
+- `TabbyChat <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2181597-tabbychat-v1-11-2-smp-chat-overhaul-new-maintainer>`_, Killjoy1221 & RocketMan10404
 - `Thaumcraft <http://www.minecraftforum.net/topic/2011841-thaumcraft-405b-updated-24112013/>`_, Azanor
 - `Thermal Expansion <http://teamcofh.com/>`_, CoFH team
 - `Thermal Foundation <http://www.curse.com/mc-mods/minecraft/222880-thermal-foundation>`_, CoFH team
