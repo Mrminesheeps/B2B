@@ -1,0 +1,38 @@
+{
+  "modid": "TConstruct",
+  "segments": [
+    {
+      "class": "tconstruct.mechworks.entity.item.ExplosivePrimed",
+      "type": "entity",
+      "entityType": "TRACKED",
+      "flag": "EXPLOSIONS",
+      "owner": [
+        {
+          "element": "field_94084_b",
+          "type": "FIELD"
+        },
+        {
+          "element": "func_70005_c_",
+          "type": "METHOD"
+        }
+      ],
+      "range": 7
+    },
+    {
+      "class": "tconstruct.world.blocks.OreberryBush",
+      "type": "block",
+      "blockType": "RIGHT_CLICK",
+      "meta": -1,
+      "flag": "ACCESS"
+    },
+    {
+      "class": "tconstruct.world.entity.BlueSlime",
+      "type": "entity",
+      "entityType": "TRACKED",
+      "flag": {
+        "name": "MOBS",
+        "denialValue": "passives"
+      }
+    }
+  ]
+}
