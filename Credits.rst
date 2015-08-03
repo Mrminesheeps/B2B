@@ -1,0 +1,78 @@
+================
+Back 2 Basics
+================
+- `Advanced Machines <http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907>,  AtomicStryker 
+- `-Gravitation Suite- <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915>, SeNtiMeL
+- ` -Steve's Addons- <http://www.curse.com/mc-mods/minecraft/226067-steves-addons>, Hilburn
+- `-Steve's Factory Manager- <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager>, Vswe
+- `-TabbyChat- <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2181597-tabbychat-v1-11-2-smp-chat-overhaul-new-maintainer>, Killjoy1221 & RocketMan10404
+- `Advanced Repulsion Systems <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6874>, immibis 
+- `Advanced Solar Panels <http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291>, SeNtiMeL 
+- `Anti Id Conflict <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2387300-say-no-to-id-conflicts-install-anti-id-conflict>, elix_x
+- `Antique Atlas <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292324-1-7-2-1-6-4-1-5-2-forge-antique-atlas>, Hunternif
+- `Applied Energistics <http://ae-mod.info/>, AlgorithmX2
+- `Baublelicious <http://minecraft.curseforge.com/mc-mods/223951-baublelicious>, UnwrittenFun
+- `Bdlib <http://www.curse.com/mc-mods/minecraft/bdlib>, bdew
+- `Binnie's Mods <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1284348-1-7-10-1-6-4-forestry-binnies-mods-1-8-0-2-0-dev>, Binnie
+- `Blue Power <http://www.curse.com/mc-mods/minecraft/223099-blue-power>, Quetzi & Team
+- `Botania <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294116-botania-an-innovative-natural-magic-themed-tech>, Vazkii
+- `Buildcraft <http://www.mod-buildcraft.com/>, CovertJaguar & Team
+- `Cart Livery <http://minecraft.curseforge.com/mc-mods/228322-cart-livery>, octarine_noise
+- `ChickenChunks <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>, Chickenbones
+- `CodeChickenCore <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>, Chickenbones
+- `CoFH Core <http://teamcofh.com/>, CoFH team
+- `Craft Heraldry <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1289645-craftheraldry-coats-of-arms-in-minecraft-over-800>, Vazkii
+- `EnderStorage <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>, Chickenbones
+- `Extra Carts <http://www.curse.com/mc-mods/minecraft/222379-extra-carts>, Scott_DTA & SkySom
+- `ExtrabiomesXL <http://www.minecraftforum.net/topic/1090288-164-extrabiomesxl-3151/>, Allaryin & ScottKillen
+- `Fabricators <http://minecraft.curseforge.com/mc-mods/72061-fabricators>, robotbrain
+- `Factorization <http://www.minecraftforum.net/topic/1351802-164-factorization-0829/>, neptunepink
+- `Fancy Fluid Storage <http://minecraft.curseforge.com/mc-mods/232683-ffs-fancy-fluid-storage>, Lordmau5 & maxpowa
+- `Forbidden Magic <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-35a-v0-41b>, SpitefulFox
+- `Forestry <http://forestry.sengir.net/wiki.new/doku.php>, SirSengir
+- `Forge Multipart <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>, Chickenbones
+- `Funky Locomotion <http://www.curse.com/mc-mods/minecraft/224190-funky-locomotion>, RWTema
+- `Gravity Gun <http://ichun.us/mods/gravity-gun/>, iChun
+- `GregTech 5 Unofficial Port <http://forum.industrial-craft.net/index.php?page=Thread&threadID=11488>, Blood Asp
+- `IchunUtil <http://ichun.us/mods/ichun-util/>, iChun
+- `Immibis Core <http://www.minecraftforum.net/topic/1001131-164-immibiss-mods-smp-now-with-857-less-version-numbers-in-this-title/>, immibis 
+- `IndustrialCraft 2 <http://www.industrial-craft.net/>, IC2 Dev Team
+- `InfiniBows <http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/>, Myrathi
+- `Iron Chest Mincarts <http://www.curse.com/mc-mods/minecraft/224989-iron-chest-minecarts>, ganymedes01
+- `Iron Chests <http://www.minecraftforum.net/topic/981855-15-and-up-forge-universalironchests-50-minecraft-15-update/>, cpw
+- `Logistics Pipes <http://www.minecraftforum.net/topic/1831791-16xbuildcraft-logistics-pipes/>, davboecki & theZorro266 & GUIpsp & AartBluestoke & ArtForz
+- `Magic Bees <http://www.minecraftforum.net/topic/1627856-magic-bees-magic-themed-bees-for-forestry-the-successor-to-thaumicbees/>, MysteriousAges
+- `Mantle <http://www.curse.com/mc-mods/minecraft/mantle>, mDiyo
+- `Mine Tweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your>, StanH
+- `MineFactory Reloaded <http://www.minecraftforum.net/topic/2016680-162164-powercrystals-mods-minefactoryreloaded-powercrystalscore-and-netherores-updated-mfr-275-released/>, Skyboy026 & Powercrystals
+- `Minetweaker 3 GT Addon <http://forum.industrial-craft.net/index.php?page=Thread&threadID=11353>, DreamMasterXXL
+- `Mod Tweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2364943-modtweaker-0-7-x>, jaredlll08& Joshie & SpitefulFox
+- `MrCrayfish's Furniture Mod <http://www.minecraftforum.net/topic/1114866-164-forge-sspsmp-mrcrayfishs-furniture-mod-v327-bug-fixes/>, Mr_Crayfish
+- `Mystcraft <http://www.minecraftforum.net/topic/918541-164-mystcraft-01011/>, XcompWiz
+- `NEI Addons <http://www.minecraftforum.net/topic/1803460-nei-addons-v1102-updated-120214/>, bdew
+- `NEI Integration <http://www.curse.com/mc-mods/minecraft/225251-nei-integration>, Tonius
+- `Not Enough Items <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>, Chickenbones
+- `Not Enough Resources <http://minecraft.curseforge.com/mc-mods/225815-notenoughresources>, Way2muchnoise & Hilburn
+- `Nuclear Control 2 <http://forum.industrial-craft.net/index.php?page=Thread&threadID=10649>, xbony2
+- `Obsidiplates <http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/>, Myrathi
+- `Open Computers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293018-opencomputers-v1-3-3>, Sangar
+- `Open Mods Lib <http://www.openblocks.info/>, Mikeemoo & boq
+- `Open Mods Lib <http://www.openblocks.info/>, Mikeemoo & boq
+- `Open Peripheral Addons <http://www.openblocks.info/>,http://minecraft.curseforge.com/mc-mods/228818-openperipheraladd>,ons OpenMods Team
+- `Open Peripheral Core <http://www.openblocks.info/>, Mikeemoo & boq
+- `Portal Gun <http://ichun.us/mods/gravity-gun/>, iChun
+- `Qmunity Lib <http://www.curse.com/mc-mods/minecraft/224785-qmunitylib>, MineMaarten & Team
+- `Railcraft <http://www.railcraft.info/>, CovertJaguar
+- `Router Reborn <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176322-router-reborn-1-1-6>, TomEVoll
+- `Soul Shards: The Old Ways <http://www.curse.com/mc-mods/minecraft/226958-soul-shards-the-old-ways>, SgtPunishment & unstoppableN & TehNutJenkins
+- `Steve's Carts 2 <http://stevescarts2.wikispaces.com/>, Vswe
+- `Storage Drawers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-updated-sep-01-14>, jaquadro
+- `Storage Drawers: Forestry Pack <http://minecraft.curseforge.com/mc-mods/231147-storage-drawers-forestry-pack>, jaquadro
+- `Thaumcraft <http://www.minecraftforum.net/topic/2011841-thaumcraft-405b-updated-24112013/>, Azanor
+- `Thermal Expansion <http://teamcofh.com/>, CoFH team
+- `Thermal Foundation <http://www.curse.com/mc-mods/minecraft/222880-thermal-foundation>, CoFH team
+- `TubeStuff <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers>, immibis 
+- `Twilight Forest <http://www.minecraftforum.net/topic/561673-164-the-twilight-forest-v1203-haunting-of-the-knight-phantoms/>, Benimatic
+- `Utility Mobs <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob>, FatherToast
+- `Werkbench <http://minecraft.curseforge.com/mc-mods/228653-werkbench>, jakimfett
+- `Ztones <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v1-6>, riciJak
