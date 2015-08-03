@@ -26,6 +26,7 @@ Back 2 Basics
 - `Fancy Fluid Storage <http://minecraft.curseforge.com/mc-mods/232683-ffs-fancy-fluid-storage>`_, Lordmau5 & maxpowa
 - `Forbidden Magic <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-35a-v0-41b>`_, SpitefulFox
 - `Forestry <http://forestry.sengir.net/wiki.new/doku.php>`_, SirSengir
+- `Forge <http://www.minecraftforge.net/>`_, Lex Manos
 - `Forge Multipart <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>`_, Chickenbones
 - `Funky Locomotion <http://www.curse.com/mc-mods/minecraft/224190-funky-locomotion>`_, RWTema
 - `Gravitation Suite <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915>`_, SeNtiMeL
