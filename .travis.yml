@@ -10,7 +10,7 @@ deploy:
     secure: O9j/BL/qsDprtQ/zKiEqZ0MqVFjOAi2m+b/bm1GbKpr6qorLcRQDI6dEGeWkTEGB2dokE3cKctOMhHiEYc/IRZYWKE7UGoEInlYUWWsx1PIIrCqr/1Ma/kur1w61tUZIoJyfJhuHRU+CtbbMZpYMkR3HSDdOaj+Bm+DzB+pMPcTf2IFx8AoUk0AC70XSp5tmIKIJmmPc7sscm0RpLYf4ewXMQLDveLvdbz9/JVn/rK241EMm6h7UqBjYR0uCrlmYDmExnUjHQTIRlR0NuVku6QIVUTUHW2KPEVqSHtsxA2XptwXGEZ4oYgC+8Gvai5ftwAj24PuXGbpRdbwZZE9Z7tZkRonkJg83Kt7bscWYp9JiZW3D3RIBz3+JGHac3mfFjKNvF7t7kqDan9HMB8OtHjPgtf991vxcgnnXZj6YH3zbglKpeJ0ttzB99g4ob4xoSTi/wuxx77SYjGw4aAlqWtQJKGbuohZt8n19uSEyNrg6Ed1bombp3vseUo5liLo+pHhUfGByZKGWBj0rBAW41Dv2g4VXKbKJz6ZVydHqw351jQ/MxhqxMSm4xPdJcTM34Y2w9t1pMwEn2WLNPdEFYiFr2lMtxzhVLsPosRi6lEki+0MMuqv4yt4poco+e7VQ3x8w8MVJLi/QTnACBL5s+Dq42olkl81lgzn5gVTsx/M=
   file_glob: true
   file:
-  - build/Galactic Science_*_Client.zip
-  - build/Galactic Science_*_Server.zip
+  - build/*_Client.zip
+  - build/*_Server.zip
   on:
     tags: true
