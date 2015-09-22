@@ -62,9 +62,7 @@ Back 2 Basics
 - `Railcraft <http://www.railcraft.info/>`_, CovertJaguar
 - `Router Reborn <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176322-router-reborn-1-1-6>`_, TomEVoll
 - `Soul Shards: The Old Ways <http://www.curse.com/mc-mods/minecraft/226958-soul-shards-the-old-ways>`_, SgtPunishment & unstoppableN & TehNutJenkins
-- `Steve's Addons <http://www.curse.com/mc-mods/minecraft/226067-steves-addons>`_, Hilburn
 - `Steve's Carts 2 <http://stevescarts2.wikispaces.com/>`_, Vswe
-- `Steve's Factory Manager <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293066-1-7-2-steves-factory-manager>`_, Vswe
 - `Storage Drawers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-updated-sep-01-14>`_, jaquadro
 - `Storage Drawers: Forestry Pack <http://minecraft.curseforge.com/mc-mods/231147-storage-drawers-forestry-pack>`_, jaquadro
 - `TabbyChat <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2181597-tabbychat-v1-11-2-smp-chat-overhaul-new-maintainer>`_, Killjoy1221 & RocketMan10404
