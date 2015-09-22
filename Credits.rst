@@ -74,5 +74,6 @@ Back 2 Basics
 - `TubeStuff <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers>`_, immibis 
 - `Twilight Forest <http://www.minecraftforum.net/topic/561673-164-the-twilight-forest-v1203-haunting-of-the-knight-phantoms/>`_, Benimatic
 - `Utility Mobs <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob>`_, FatherToast
+- `Wood Stuff <http://www.curse.com/mc-mods/minecraft/232043-wood-stuff>`_, ganymedes01
 - `Werkbench <http://minecraft.curseforge.com/mc-mods/228653-werkbench>`_, jakimfett
 - `Ztones <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v1-6>`_, riciJak
