@@ -64,7 +64,7 @@ Back 2 Basics
 - `Magnanimous Tools <http://minecraft.curseforge.com/mc-mods/229392-magnanimous-tools>`_, VapourDrive - `Permission <http://www.feed-the-beast.com/mods/mod/magnanimous-tools>`_
 - `Mantle <http://www.curse.com/mc-mods/minecraft/mantle>`_, mDiyo - `Permission <http://www.feed-the-beast.com/mods/mod/mantle>`_
 - `Metallurgy 4 <http://www.curse.com/mc-mods/minecraft/metallurgy-core>`_, Shadowclaimer - `Permission <http://www.feed-the-beast.com/mods/mod/metallurgy>`_
-- `Metallurgy 4 <http://www.minecraftforum.net/topic/744918-164forgesmp-metallurgy-putting-the-mine-back-in-minecraft/>`_, Shadowclaimer - `Permission <http://www.feed-the-beast.com/mods/mod/metallurgy>`_
+- `Metallurgy 4 Core <http://www.minecraftforum.net/topic/744918-164forgesmp-metallurgy-putting-the-mine-back-in-minecraft/>`_, Shadowclaimer - `Permission <http://www.feed-the-beast.com/mods/mod/metallurgy>`_
 - `MetallurgyChisel <http://www.curse.com/mc-mods/minecraft/236311-metallurgychisel>`_, JeanGlassmaker - `Permission <https://github.com/TeamMetallurgy/MetallurgyChisel/blob/master/license>`_
 - `MineFactory Reloaded <http://www.minecraftforum.net/topic/2016680-162164-powercrystals-mods-minefactoryreloaded-powercrystalscore-and-netherores-updated-mfr-275-released/>`_, skyboy026 - `Permission <http://www.feed-the-beast.com/mods/mod/minefactory-reloaded>`_
 - `MineTweaker 3 <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your>`_, StanH - `Permission <http://www.feed-the-beast.com/mods/mod/minetweaker>`_
