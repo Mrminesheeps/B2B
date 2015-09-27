@@ -84,6 +84,7 @@ Back 2 Basics
 - `Open Computers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293018-opencomputers-v1-3-3>`_, Sangar  - `Permission <http://www.feed-the-beast.com/mods/mod/opencomputers>`_
 - `Open Mods Lib <http://www.openblocks.info/>`_, Mikeemoo  - `Permission <http://www.feed-the-beast.com/mods/mod/openmodslib>`_
 - `Open Peripheral All-In-One <http://minecraft.curseforge.com/mc-mods/228818-openperipheraladdons>`_, OpenMods  - `Permission <https://i.imgur.com/ISLlkyE.jpg>`_
+- `Origin <http://www.curse.com/mc-mods/minecraft/origin>`_, Country_Gamer  - `Permission <http://www.feed-the-beast.com/mods/mod/origin>`_
 - `Portal Gun <http://ichun.us/mods/gravity-gun/>`_, iChun  - `Permission <http://www.feed-the-beast.com/mods/mod/portal-gun>`_
 - `Potion Extension <http://www.curse.com/mc-mods/minecraft/230023-potionextension>`_, AKcurseforge  - `Permission <http://www.feed-the-beast.com/mods/mod/potion-extension>`_
 - `Power Converters <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293983-powerconverters-originally-by-powercrystals>`_, samrg472  - `Permission <http://www.feed-the-beast.com/mods/mod/power-converters>`_
@@ -94,6 +95,7 @@ Back 2 Basics
 - `Sanguimancy <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2194354-blood-magic-addon-sanguimancy>`_, Tombenpotter  - `Permission <http://www.feed-the-beast.com/mods/mod/sanguimancy>`_
 - `Schematica <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285818-schematica>`_, Lunatrius  - `Permission <http://www.feed-the-beast.com/mods/mod/schematica>`_
 - `Soul Shards: The Old Ways <http://www.curse.com/mc-mods/minecraft/226958-soul-shards-the-old-ways>`_, SgtPunishment  - `Permission <http://www.feed-the-beast.com/mods/mod/soul-shards-old-ways>`_
+- `SpACore <http://www.curse.com/mc-mods/minecraft/228922-spacore>`_, heldplayer  - `Permission <http://www.feed-the-beast.com/mods/mod/spacore>`_
 - `Steve's Workshop <http://www.curse.com/mc-mods/minecraft/223173-steves-workshop>`_, Vswe  - `Permission <http://www.feed-the-beast.com/mods/mod/steves-workshop>`_
 - `Steves Carts 2 <http://stevescarts2.wikispaces.com/>`_, Vswe  - `Permission <http://www.feed-the-beast.com/mods/mod/steves-carts-2>`_
 - `Storage Drawers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-updated-sep-01-14>`_, jaquadro  - `Permission <http://www.feed-the-beast.com/mods/mod/storage-drawers>`_
