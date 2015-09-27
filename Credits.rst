@@ -45,7 +45,7 @@ Back 2 Basics
 - `Garden Stuff <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14>`_, jaquadro  - `Permission <http://www.feed-the-beast.com/mods/mod/garden-stuff>`_
 - `Gravitation Suite <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915>`_, SeNtiMeL  - `Permission <http://www.feed-the-beast.com/mods/mod/gravitation-suite>`_
 - `Gravity Gun <http://ichun.us/mods/gravity-gun/>`_, iChun  - `Permission <http://www.feed-the-beast.com/mods/mod/gravity-gun>`_
-- `Growthcraft Community Edition <http://www.curse.com/mc-mods/minecraft/235092-growthcraft-community-edition>`_, (Currently Disabled) Gwafu  - Awating Permission
+- `Growthcraft Community Edition <http://www.curse.com/mc-mods/minecraft/235092-growthcraft-community-edition>`_, (Currently Disabled) Gwafu  - `Awating Permission <https://github.com/alatyami/Growthcraft-1.7/issues/86>`_
 - `Guide API <http://www.curse.com/mc-mods/minecraft/228832-guide-api>`_, TehNut  - `Permission <http://www.feed-the-beast.com/mods/mod/guide-api>`_
 - `Hopper Duct Mod <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291075-1-5-x-1-6-x-1-7-2-1-7-10-hopper-ducts-mod>`_, FyberOptic  - `Permission <http://www.feed-the-beast.com/mods/mod/hopper-ducts-mod>`_
 - `Hunger Overhaul <http://www.minecraftforum.net/topic/1813158-16x-hunger-overhaul/>`_, iguana_man  - `Permission <http://www.feed-the-beast.com/mods/mod/hunger-overhaul>`_
