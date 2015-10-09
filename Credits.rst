@@ -4,7 +4,7 @@ Back 2 Basics
 - `Advanced Machines <http://forum.industrial-craft.net/index.php?page=Thread&threadID=4907>`_, AtomicStryker - `Permission <http://www.feed-the-beast.com/mods/mod/advanced-machines-atomicstryker>`_
 - `Advanced Repulsion Systems <http://forum.industrial-craft.net/index.php?page=Thread&postID=65261>`_, immibis - `Permission <http://www.feed-the-beast.com/mods/mod/advanced-repulsion-systems>`_
 - `Advanced Solar Panels <http://forum.industrial-craft.net/index.php?page=Thread&threadID=3291>`_, SeNtiMeL - `Permission <http://www.feed-the-beast.com/mods/mod/advanced-solar-panels>`_
-- `Advanced Systems Manager <http://minecraft.curseforge.com/mc-mods/234882-advanced-systems-manager>`_, (Waiting on Update) Hilburn - `Permission <http://www.feed-the-beast.com/mods/mod/advanced-systems-manager>`_
+- `Advanced Systems Manager <http://minecraft.curseforge.com/mc-mods/234882-advanced-systems-manager>`_, Hilburn - `Permission <https://github.com/hilburn/AdvancedSystemsManager/issues/78>`_
 - `AE2 Stuff <http://minecraft.curseforge.com/mc-mods/225194-ae2-stuff>`_, bdew - `Permission <http://www.feed-the-beast.com/mods/mod/ae2-stuff>`_
 - `AgriCraft <http://minecraft.curseforge.com/mc-mods/225635-agricraft>`_, InfinityRaider - `Permission <http://www.feed-the-beast.com/mods/mod/agricraft>`_
 - `Anti ID Conflict <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2387300-say-no-to-id-conflicts-install-anti-id-conflict>`_, elix_x - `Permission <http://www.feed-the-beast.com/mods/mod/anti-id-conflict>`_
@@ -14,6 +14,7 @@ Back 2 Basics
 - `Apple Milk Tea 2 <http://www.curse.com/mc-mods/Minecraft/229325-applemilktea2>`_, RazzleberryFox - `Permission <http://www.feed-the-beast.com/mods/mod/applemilktea2>`_
 - `Apple Milk Tea Generators <http://minecraft.curseforge.com/mc-mods/229724-amtgenerators>`_, Jeanglassmaker - `Permission <http://www.feed-the-beast.com/mods/mod/amt-generators>`_
 - `Applied Energistics 2 <http://ae-mod.info/>`_, AlgorithmX2 - `Permission <http://www.feed-the-beast.com/mods/mod/applied-energistics>`_
+- `Aquaculture <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1283907-aquaculture>`_, Shadowclaimer - `Permission <http://legacy.feed-the-beast.com/mods/mod/aquaculture>`_
 - `Arcane Arteries <http://minecraft.curseforge.com/mc-mods/230977-arcane-arteries>`_, Jordsta95 - `Permission <http://www.feed-the-beast.com/mods/mod/arcane-arteries>`_
 - `Baublelicious <http://minecraft.curseforge.com/mc-mods/223951-baublelicious>`_, UnwrittenFun - `Permission <https://i.imgur.com/gyyfVNJ.jpg>`_
 - `Baubles <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1294623-baubles-1-0-1-5-updated-20-8-2014>`_, Azanor - `Permission <http://www.feed-the-beast.com/mods/mod/baubles>`_
@@ -24,16 +25,17 @@ Back 2 Basics
 - `Buildcraft <http://www.mod-buildcraft.com/>`_, CovertJaguar - `Permission <http://www.feed-the-beast.com/mods/mod/buildcraft>`_
 - `Carpenter's Blocks <http://www.minecraftforum.net/topic/1790919-1516forge-carpenters-blocks-v199-slopes-stairs-and-more/>`_, Mineshopper - `Permission <http://www.feed-the-beast.com/mods/mod/carpenters-blocks>`_
 - `Chicken Chunks <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>`_, Chickenbones - `Permission <http://www.feed-the-beast.com/mods/mod/chickenchunks>`_
-- `Chisel 2 <http://www.curse.com/mc-mods/minecraft/225236-chisel-2>`_, warlordjones - `Permission <http://www.feed-the-beast.com/mods/mod/chisel-2>`_
-- `Chisel Tones <http://minecraft.curseforge.com/mc-mods/228004-chiseltones>`_, TehNut - `Permission <http://www.feed-the-beast.com/mods/mod/chisel-tones>`_
+- `ChromatiCraft <https://sites.google.com/site/reikasminecraft/chromaticraft>`_, Reika - Awaiting Permission
 - `Code Chicken Core <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>`_, Chickenbones - `Permission <http://www.feed-the-beast.com/mods/mod/codechickencore>`_
 - `Code Chicken Lib <https://github.com/Chicken-Bones/CodeChickenLib>`_, Chickenbones - `Permission <http://www.feed-the-beast.com/mods/mod/codechickenlib>`_
 - `CoFH Core <http://teamcofh.com/>`_, CoFH team - `Permission <http://www.feed-the-beast.com/mods/mod/cofh-core>`_
-- `Dense Ores <https://github.com/rwtema/DenseOres>`_, RWTema - `Permission <http://www.feed-the-beast.com/mods/mod/denseores>`_
+- `Dragon API <https://sites.google.com/site/reikasminecraft/dragonapi>`_, Reika - Awaiting Permission
+- `ElctriCraft <https://sites.google.com/site/reikasminecraft/electricraft>`_, Reika - Awaiting Permission
 - `Ender Storage <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>`_, Chickenbones - `Permission <http://www.feed-the-beast.com/mods/mod/enderstorage>`_
+- `Expanded Redstone <https://sites.google.com/site/reikasminecraft/expanded-redstone>`_, Reika - Awaiting Permission
 - `Extra Carts <http://www.curse.com/mc-mods/minecraft/222379-extra-carts>`_, Scott_DTA - `Permission <http://www.feed-the-beast.com/mods/mod/extra-carts>`_
 - `Fabricator <http://minecraft.curseforge.com/mc-mods/72061-fabricators>`_, robotbrain - `Permission <http://www.feed-the-beast.com/mods/mod/fabricators>`_
-- `Factorization <http://www.minecraftforum.net/topic/1351802-164-factorization-0829/>`_, (Currently Disabled) neptunepink  - Awaiting Permission
+- `Factorization <http://www.minecraftforum.net/topic/1351802-164-factorization-0829/>`_, neptunepink  - Awaiting Permission
 - `Fancey Fluid Storage <http://minecraft.curseforge.com/mc-mods/232683-ffs-fancy-fluid-storage>`_, Lordmau5 - `Permission <http://www.feed-the-beast.com/mods/mod/fancy-fluid-storage>`_
 - `Forbidden Magic <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445828-tc4-addon-forbidden-magic-v0-35a-v0-41b>`_, SpitefulFox - `Permission <http://www.feed-the-beast.com/mods/mod/forbidden-magic>`_
 - `Forestry <http://forestry.sengir.net/wiki.new/doku.php>`_, SirSengir - `Permission <http://www.feed-the-beast.com/mods/mod/forestry>`_
@@ -43,6 +45,7 @@ Back 2 Basics
 - `Forge Reloctaion FMP <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred-v4-7-0pre3-88-06-29>`_, MrTJP - `Permission <http://www.feed-the-beast.com/mods/mod/forge-relocation-fmp-plugin>`_
 - `Funky Locomotion <http://www.curse.com/mc-mods/minecraft/224190-funky-locomotion>`_, RWTema - `Permission <http://www.feed-the-beast.com/mods/mod/funky-locomotion>`_
 - `Garden Stuff <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14>`_, jaquadro - `Permission <http://www.feed-the-beast.com/mods/mod/garden-stuff>`_
+- `GeoStrata <https://sites.google.com/site/reikasminecraft/geostrata>`_, Reika - Awaiting Permission
 - `Gravitation Suite <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915>`_, SeNtiMeL - `Permission <http://www.feed-the-beast.com/mods/mod/gravitation-suite>`_
 - `Gravity Gun <http://ichun.us/mods/gravity-gun/>`_, iChun - `Permission <http://www.feed-the-beast.com/mods/mod/gravity-gun>`_
 - `Growthcraft Community Edition <http://www.curse.com/mc-mods/minecraft/235092-growthcraft-community-edition>`_, Gwafu  - `Permission <https://github.com/alatyami/Growthcraft-1.7/issues/86>`_
@@ -64,20 +67,21 @@ Back 2 Basics
 - `Mantle <http://www.curse.com/mc-mods/minecraft/mantle>`_, mDiyo - `Permission <http://www.feed-the-beast.com/mods/mod/mantle>`_
 - `MineFactory Reloaded <http://www.minecraftforum.net/topic/2016680-162164-powercrystals-mods-minefactoryreloaded-powercrystalscore-and-netherores-updated-mfr-275-released/>`_, skyboy026 - `Permission <http://www.feed-the-beast.com/mods/mod/minefactory-reloaded>`_
 - `MineTweaker 3 <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290366-1-6-4-1-7-x-minetweaker-3-customize-your>`_, StanH - `Permission <http://www.feed-the-beast.com/mods/mod/minetweaker>`_
-- `Mod Tweaker <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2364943-modtweaker-0-7-x>`_, jaredlll08 - `Permission <http://www.feed-the-beast.com/mods/mod/modtweaker>`_
+- `Mob Properties <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob>`_ FatherToast - `Permission <http://legacy.feed-the-beast.com/mods/mod/mob-properties>`_
+- `Mod Tweaker 2 <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2364943-modtweaker-0-7-x>`_, jaredlll08 - `Permission <http://www.feed-the-beast.com/mods/mod/modtweaker>`_
 - `MrCrayfish's Furniture Mod <http://www.minecraftforum.net/topic/1114866-164-forge-sspsmp-mrcrayfishs-furniture-mod-v327-bug-fixes/>`_, Mr_Crayfish - `Permission <http://www.feed-the-beast.com/mods/mod/mrcrayfishs-furniture-mod>`_
 - `MrTJPCore <http://www.curse.com/mc-mods/minecraft/229002-mrtjpcore>`_, Mr_TJP  - Required API
 - `MyEssentialsCore <http://www.curse.com/mc-mods/minecraft/224243-myessentials-core>`_, legobear154 - `Permission <https://i.imgur.com/OJQKmLo.jpg>`_
 - `Mystcraft <http://www.minecraftforum.net/topic/918541-164-mystcraft-01011/>`_, XCompWiz - `Permission <https://i.imgur.com/xhW1gRG.jpg>`_
 - `MyTown 2 <http://www.curse.com/mc-mods/minecraft/224242-mytown2>`_, legobear154 - `Permission <https://i.imgur.com/xhW1gRG.jpg>`_
-- `NEI <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>`_, Chickenbones - `Permission <http://www.feed-the-beast.com/mods/mod/not-enough-items>`_
 - `NEI - Addons <http://www.minecraftforum.net/topic/1803460-nei-addons-v1102-updated-120214/>`_, bdew - `Permission <http://www.feed-the-beast.com/mods/mod/nei-addons>`_
 - `NEI - Integration <http://www.curse.com/mc-mods/minecraft/225251-nei-integration>`_, Tonius - `Permission <http://www.feed-the-beast.com/mods/mod/nei-integration>`_
-- `NEI - Keys <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292963-1-6-4-not-enough-keys-0-0-4-organizing-the>`_, Mr_okushama - `Permission <http://www.feed-the-beast.com/mods/mod/not-enough-keys>`_
 - `NEI - Mystcraft Plugin <http://minecraft.curseforge.com/mc-mods/228923-nei-mystcraft-plugin>`_, heldplayer - `Permission <http://www.feed-the-beast.com/mods/mod/nei-mystcraft-plugin>`_
 - `NEI - Resources <http://minecraft.curseforge.com/mc-mods/225815-notenoughresources>`_, Way2muchnoise - `Permission <http://www.feed-the-beast.com/mods/mod/not-enough-resources>`_
+- `NEI <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>`_, Chickenbones - `Permission <http://www.feed-the-beast.com/mods/mod/not-enough-items>`_
 - `Nether Ores <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292152-powercrystals-mods-minefactoryreloaded>`_, skyboy026 - `Permission <http://www.feed-the-beast.com/mods/mod/netherores>`_
 - `Obsidian Pressure Plates <http://forum.feed-the-beast.com/threads/myrathis-mod-compendium.18505/>`_, Myrathi - `Permission <http://www.feed-the-beast.com/mods/mod/obsidiplates>`_
+- `Omnis Core <https://github.com/Jezza/OmnisCore/wiki/Downloads>`_ Jezzadabomb338 - `Permission <http://legacy.feed-the-beast.com/mods/mod/omnis-core>`_
 - `Open Computers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293018-opencomputers-v1-3-3>`_, Sangar - `Permission <http://www.feed-the-beast.com/mods/mod/opencomputers>`_
 - `Open Mods Lib <http://www.openblocks.info/>`_, Mikeemoo - `Permission <http://www.feed-the-beast.com/mods/mod/openmodslib>`_
 - `Open Peripheral All-In-One <http://minecraft.curseforge.com/mc-mods/228818-openperipheraladdons>`_, OpenMods - `Permission <https://i.imgur.com/ISLlkyE.jpg>`_
@@ -87,27 +91,31 @@ Back 2 Basics
 - `Power Converters <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1293983-powerconverters-originally-by-powercrystals>`_, samrg472 - `Permission <http://www.feed-the-beast.com/mods/mod/power-converters>`_
 - `Project Red <http://www.minecraftforum.net/topic/1885652-164forge-multipart-projectred-v42218-12312013/>`_, MrTJP - `Permission <http://www.feed-the-beast.com/mods/mod/project-red>`_
 - `Railcraft <http://www.railcraft.info/>`_, CovertJaguar - `Permission <http://www.feed-the-beast.com/mods/mod/railcraft>`_
-- `Realistic World Generation <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281910-teds-world-gen-mods-realistic-world-gen-alpha-1-3>`_, ted80 - `Permission <http://www.feed-the-beast.com/mods/mod/realistic-world-gen>`_
+- `RotaryCraft <https://sites.google.com/site/reikasminecraft/rotarycraft>`_, Reika - Awaiting Permission
 - `Router Reborn <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2176322-router-reborn-1-1-6>`_, TomEVoll - `Permission <http://www.feed-the-beast.com/mods/mod/router-reborn>`_
 - `Sanguimancy <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2194354-blood-magic-addon-sanguimancy>`_, Tombenpotter - `Permission <http://www.feed-the-beast.com/mods/mod/sanguimancy>`_
 - `Schematica <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1285818-schematica>`_, Lunatrius - `Permission <http://www.feed-the-beast.com/mods/mod/schematica>`_
 - `Soul Shards: The Old Ways <http://www.curse.com/mc-mods/minecraft/226958-soul-shards-the-old-ways>`_, SgtPunishment - `Permission <http://www.feed-the-beast.com/mods/mod/soul-shards-old-ways>`_
 - `SpACore <http://www.curse.com/mc-mods/minecraft/228922-spacore>`_, heldplayer - `Permission <http://www.feed-the-beast.com/mods/mod/spacore>`_
-- `Steve's Workshop <http://www.curse.com/mc-mods/minecraft/223173-steves-workshop>`_, Vswe - `Permission <http://www.feed-the-beast.com/mods/mod/steves-workshop>`_
 - `Steves Carts 2 <http://stevescarts2.wikispaces.com/>`_, Vswe - `Permission <http://www.feed-the-beast.com/mods/mod/steves-carts-2>`_
-- `Storage Drawers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-updated-sep-01-14>`_, jaquadro - `Permission <http://www.feed-the-beast.com/mods/mod/storage-drawers>`_
+- `Steve's Workshop <http://www.curse.com/mc-mods/minecraft/223173-steves-workshop>`_, Vswe - `Permission <http://www.feed-the-beast.com/mods/mod/steves-workshop>`_
 - `Storage Drawers - Forestry <http://www.curse.com/mc-mods/minecraft/231147-storage-drawers-forestry-pack>`_, jaquadro - `Permission <http://www.feed-the-beast.com/mods/mod/storage-drawers>`_
 - `Storage Drawers - Misc <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-v1-5-15-v2-1-9-updated-aug-25-15>`_, jaquadro - `Permission <http://www.feed-the-beast.com/mods/mod/storage-drawers>`_
+- `Storage Drawers <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2198533-storage-drawers-updated-sep-01-14>`_, jaquadro - `Permission <http://www.feed-the-beast.com/mods/mod/storage-drawers>`_
 - `Tabby Chat <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2181597-tabbychat-v1-11-2-smp-chat-overhaul-new-maintainer>`_, Killjoy1221 - `Permission <http://www.feed-the-beast.com/mods/mod/tabbychat>`_
+- `Tainted Magic  <http://www.curse.com/mc-mods/minecraft/231061-tainted-magic-a-thaumcraft-addon>`_ yorkeMC -`Permission <http://legacy.feed-the-beast.com/mods/mod/tainted-magic>`_
+- `Talismans 2 <http://minecraft.curseforge.com/mc-mods/224434-talismans-2>`_ Gigabit1011 - `Permission <http://legacy.feed-the-beast.com/mods/mod/talismans-2>`_
 - `Thaumcarpentry <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2235815-thaumcarpentry-0-0-1-5>`_, zot201 - `Permission <http://www.feed-the-beast.com/mods/mod/thaumcarpentry>`_
 - `Thaumcraft <http://www.minecraftforum.net/topic/2011841-thaumcraft-405b-updated-24112013/>`_, Azanor - `Permission <http://www.feed-the-beast.com/mods/mod/thaumcraft>`_
 - `Thaumcraft Mob Aspects <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292555-1-6-x-thaumcraft-addon-mob-aspects>`_, iguana_man - `Permission <http://www.feed-the-beast.com/mods/mod/thaumcraft-mob-aspects>`_
 - `Thaumcraft NEI Plugin <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2237271-1-6-4-1-7-10-thaumcraft-nei-plugin-nei>`_, DjGiannuzz - `Permission <http://www.feed-the-beast.com/mods/mod/thaumcraft-nei-plugin>`_
 - `Thaumcraft Node Tracker <http://www.curse.com/mc-mods/minecraft/227328-thaumcraft-node-tracker>`_, Dyonovan - `Permission <http://www.feed-the-beast.com/mods/mod/thaumcraft-node-tracker>`_
-- `ThaumcraftGates <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292852-1-7-2-thaumcraftgates-v1-3-0-tc4-bc-added>`_, ganymedes01 - `Permission <http://www.feed-the-beast.com/mods/mod/thaumcraftgates>`_
+- `ThaumcraftGates  <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1292852-1-7-2-thaumcraftgates-v1-3-0-tc4-bc-added>`_, ganymedes01 - `Permission <http://www.feed-the-beast.com/mods/mod/thaumcraftgates>`_
 - `Thaumic Expansion <http://www.curse.com/mc-mods/minecraft/228696-thaumic-expansion>`_, Country_Gamer - `Permission <http://www.feed-the-beast.com/mods/mod/thaumic-expansion>`_
 - `Thaumic Horizons <http://www.curse.com/mc-mods/minecraft/227914-thaumic-horizons>`_, TheKentington - `Permission <http://www.feed-the-beast.com/mods/mod/thaumic-horizons>`_
+- `Thaumic Pipes <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/2112441-thaumcraft-addon-wip-forgemultipart-thaumic-pipes>`_ Jezzadabomb338 - `Permission <http://goo.gl/8Twcyy>`_
 - `Thaumic Tinkerer <http://www.minecraftforum.net/topic/1813058-thaumic-tinkerer-thaumcraft-addon-evolve-knowledge/>`_, pixlepix - `Permission <http://www.feed-the-beast.com/mods/mod/thaumic-tinkerer>`_
+- `Thaumic Warden <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/wip-mods/1445922-1-7-10-tc4addon-thaumic-warden-the-rise-of>`_ , MasterAbdoTGM50 - `Permission <https://github.com/MasterAbdoTGM50/ThaumicWarden/blob/master/LICENSE>`_
 - `The Spice Of Life <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2091809-the-spice-of-life-encouraging-dietary-variety>`_, squeek502 - `Permission <http://www.feed-the-beast.com/mods/mod/spice-life>`_
 - `Thermal Expansion <http://teamcofh.com/>`_, CoFH team - `Permission <http://www.feed-the-beast.com/mods/mod/thermal-expansion>`_
 - `Thermal Foundation <http://www.curse.com/mc-mods/minecraft/222880-thermal-foundation>`_, CoFH team - `Permission <http://www.feed-the-beast.com/mods/mod/thermal-foundation>`_
@@ -115,6 +123,8 @@ Back 2 Basics
 - `Tube Stuff <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1281065-immibiss-mods-now-with-85-7-less-version-numbers>`_, immibis - `Permission <http://www.feed-the-beast.com/mods/mod/tubestuff>`_
 - `Twilight Forest <http://www.minecraftforum.net/topic/561673-164-the-twilight-forest-v1203-haunting-of-the-knight-phantoms/>`_, Benimatic - `Permission <http://www.feed-the-beast.com/mods/mod/twilight-forest>`_
 - `Utility Mobs <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1282771-1-6-x-forge-father-toasts-mods-special-mobs-mob>`_, FatherToast - `Permission <http://www.feed-the-beast.com/mods/mod/utility-mobs>`_
+- `Waila <http://www.minecraftforum.net/topic/1846244-172-waila-145/>`_ ProfMobius - `Permission <http://legacy.feed-the-beast.com/mods/mod/waila>`_
+- `Wawla <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2169830-wawla-what-are-we-looking-at>`_ Darkhax - `Permission <http://legacy.feed-the-beast.com/mods/mod/wawla>`_
 - `Werkbench <http://minecraft.curseforge.com/mc-mods/228653-werkbench>`_, jakimfett - `Permission <http://www.feed-the-beast.com/mods/mod/werkbench>`_
 - `Wood Stuff <http://minecraft.curseforge.com/mc-mods/232043-wood-stuff>`_, ganymedes01 - `Permission <http://www.feed-the-beast.com/mods/mod/wood-stuff>`_
 - `Ztones <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2221070-ztones-v1-6>`_, riciJak - `Permission <http://www.feed-the-beast.com/mods/mod/ztones>`_
