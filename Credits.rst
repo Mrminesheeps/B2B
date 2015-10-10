@@ -25,14 +25,14 @@ Back 2 Basics
 - `Buildcraft <http://www.mod-buildcraft.com/>`_, CovertJaguar - `Permission <http://www.feed-the-beast.com/mods/mod/buildcraft>`_
 - `Carpenter's Blocks <http://www.minecraftforum.net/topic/1790919-1516forge-carpenters-blocks-v199-slopes-stairs-and-more/>`_, Mineshopper - `Permission <http://www.feed-the-beast.com/mods/mod/carpenters-blocks>`_
 - `Chicken Chunks <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>`_, Chickenbones - `Permission <http://www.feed-the-beast.com/mods/mod/chickenchunks>`_
-- `ChromatiCraft <https://sites.google.com/site/reikasminecraft/chromaticraft>`_, Reika - Awaiting Permission
+- `ChromatiCraft <https://sites.google.com/site/reikasminecraft/chromaticraft>`_, Reika - `Permission <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291655-reikas-mods-tech-worldgen-civilization-and-more?comment=24388>`_
 - `Code Chicken Core <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>`_, Chickenbones - `Permission <http://www.feed-the-beast.com/mods/mod/codechickencore>`_
 - `Code Chicken Lib <https://github.com/Chicken-Bones/CodeChickenLib>`_, Chickenbones - `Permission <http://www.feed-the-beast.com/mods/mod/codechickenlib>`_
 - `CoFH Core <http://teamcofh.com/>`_, CoFH team - `Permission <http://www.feed-the-beast.com/mods/mod/cofh-core>`_
-- `Dragon API <https://sites.google.com/site/reikasminecraft/dragonapi>`_, Reika - Awaiting Permission
-- `ElctriCraft <https://sites.google.com/site/reikasminecraft/electricraft>`_, Reika - Awaiting Permission
+- `Dragon API <https://sites.google.com/site/reikasminecraft/dragonapi>`_, Reika - `Permission <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291655-reikas-mods-tech-worldgen-civilization-and-more?comment=24388>`_
+- `ElctriCraft <https://sites.google.com/site/reikasminecraft/electricraft>`_, Reika - `Permission <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291655-reikas-mods-tech-worldgen-civilization-and-more?comment=24388>`_
 - `Ender Storage <http://www.minecraftforum.net/topic/909223-164-smp-chickenbones-mods/>`_, Chickenbones - `Permission <http://www.feed-the-beast.com/mods/mod/enderstorage>`_
-- `Expanded Redstone <https://sites.google.com/site/reikasminecraft/expanded-redstone>`_, Reika - Awaiting Permission
+- `Expanded Redstone <https://sites.google.com/site/reikasminecraft/expanded-redstone>`_, Reika - `Permission <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291655-reikas-mods-tech-worldgen-civilization-and-more?comment=24388>`_
 - `Extra Carts <http://www.curse.com/mc-mods/minecraft/222379-extra-carts>`_, Scott_DTA - `Permission <http://www.feed-the-beast.com/mods/mod/extra-carts>`_
 - `Fabricator <http://minecraft.curseforge.com/mc-mods/72061-fabricators>`_, robotbrain - `Permission <http://www.feed-the-beast.com/mods/mod/fabricators>`_
 - `Factorization <http://www.minecraftforum.net/topic/1351802-164-factorization-0829/>`_, neptunepink  - Awaiting Permission
@@ -45,7 +45,7 @@ Back 2 Basics
 - `Forge Reloctaion FMP <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1290357-forge-multipart-projectred-v4-7-0pre3-88-06-29>`_, MrTJP - `Permission <http://www.feed-the-beast.com/mods/mod/forge-relocation-fmp-plugin>`_
 - `Funky Locomotion <http://www.curse.com/mc-mods/minecraft/224190-funky-locomotion>`_, RWTema - `Permission <http://www.feed-the-beast.com/mods/mod/funky-locomotion>`_
 - `Garden Stuff <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/2163513-garden-stuff-updated-aug-23-14>`_, jaquadro - `Permission <http://www.feed-the-beast.com/mods/mod/garden-stuff>`_
-- `GeoStrata <https://sites.google.com/site/reikasminecraft/geostrata>`_, Reika - Awaiting Permission
+- `GeoStrata <https://sites.google.com/site/reikasminecraft/geostrata>`_, Reika - `Permission <http://www.minecraftforum.net/forums/mapping-and-modding/minecraft-mods/1291655-reikas-mods-tech-worldgen-civilization-and-more?comment=24388>`_
 - `Gravitation Suite <http://forum.industrial-craft.net/index.php?page=Thread&threadID=6915>`_, SeNtiMeL - `Permission <http://www.feed-the-beast.com/mods/mod/gravitation-suite>`_
 - `Gravity Gun <http://ichun.us/mods/gravity-gun/>`_, iChun - `Permission <http://www.feed-the-beast.com/mods/mod/gravity-gun>`_
 - `Growthcraft Community Edition <http://www.curse.com/mc-mods/minecraft/235092-growthcraft-community-edition>`_, Gwafu  - `Permission <https://github.com/alatyami/Growthcraft-1.7/issues/86>`_
