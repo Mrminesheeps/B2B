@@ -26,7 +26,7 @@
 			"#fbd177"
 		],
 		"music volume": 100.0,
-		"master volume": 100.0,
+		"master volume": 0.0,
 		"weather volume": 100.0,
 		"ambient volume": 100.0,
 		"hostile volume": 100.0

@@ -1,138 +1,172 @@
 {
-    "copper": {
-        "template": "uniform",
-        "block": "ThermalFoundation:Ore",
-        "clusterSize": 8,
-        "numClusters": 10,
-        "minHeight": 40,
-        "maxHeight": 75,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "tin": {
-        "template": "uniform",
-        "block": {"name": "ThermalFoundation:Ore", "metadata": 1},
-        "clusterSize": 8,
-        "numClusters": 8,
-        "minHeight": 20,
-        "maxHeight": 55,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "silver": {
-        "template": "uniform",
-        "block": [
-            {"name": "ThermalFoundation:Ore", "metadata": 2, "weight":80},
-            {"name": "ThermalFoundation:Ore", "metadata": 3, "weight":20}
-        ],
-        "clusterSize": 8,
-        "numClusters": 6,
-        "minHeight": 5,
-        "maxHeight": 30,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "lead": {
-        "template": "uniform",
-        "block": [
-            {"name": "ThermalFoundation:Ore", "metadata": 3, "weight": 90},
-            {"name": "ThermalFoundation:Ore", "metadata": 2, "weight": 10}
-        ],
-        "clusterSize": 8,
-        "numClusters": 8,
-        "minHeight": 10,
-        "maxHeight": 35,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "nickel": {
-        "template": "uniform",
-        "block": {"name": "ThermalFoundation:Ore", "metadata": 4},
-        "clusterSize": 4,
-        "numClusters": 3,
-        "minHeight": 5,
-        "maxHeight": 20,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "platinum": {
-        "template": "uniform",
-        "generator": "sparse-cluster",
-        "block": [
-            {"name": "ThermalFoundation:Ore", "metadata": 5, "weight": 80},
-            {"name": "ThermalFoundation:Ore", "metadata": 4, "weight": 20}
-        ],
-        "clusterSize": 3,
-        "numClusters": 1,
-        "minHeight": 5,
-        "maxHeight": 30,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    },
-    "copperHigh": {
-        "template": "uniform",
-        "block": "ThermalFoundation:Ore",
-        "clusterSize": 8,
-        "numClusters": 8,
-        "minHeight": 48,
-        "maxHeight": 96,
-        "retrogen": "true",
-        "biomeRestriction": "none",
-        "biomes": [
-            "all"
-        ],
-        "dimensionRestriction": "blacklist",
-        "dimensions": [
-            -1,
-            1
-        ]
-    }
+  "Aluminum": {
+    "template": "uniform",
+    "block": [
+      {
+        "name": "ElectriCraft:electricraft_block_ore",
+        "metadata": 4
+      }
+    ],
+    "clusterSize": 4,
+    "numClusters": 11,
+    "minHeight": 44,
+    "maxHeight": 62,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1
+    ]
+  },
+  "Copper": {
+    "template": "normal",
+    "block": [
+      {
+        "name": "Forestry:resources",
+        "metadata": 1
+      },
+      {
+        "name": "IC2:blockOreCopper",
+        "metadata": 0
+      },
+      {
+        "name": "ProjRed|Exploration:projectred.exploration.ore",
+        "metadata": 3
+      },
+      {
+        "name": "ThermalFoundation:Ore",
+        "metadata": 0
+      },
+      {
+        "name": "Railcraft:ore",
+        "metadata": 9
+      }
+    ],
+    "clusterSize": 11,
+    "numClusters": 6,
+    "meanHeight": 58,
+    "maxVariance": 7,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1
+    ]
+  },
+  "Nickel / Ferrous": {
+    "enable": "false",
+    "template": "uniform",
+    "block": [
+      {
+        "name": "ElectriCraft:electricraft_block_ore",
+        "metadata": 3
+      },
+      {
+        "name": "ThermalFoundation:Ore",
+        "metadata": 4
+      }
+    ],
+    "clusterSize": 6,
+    "numClusters": 3,
+    "minHeight": 6,
+    "maxHeight": 16,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1
+    ]
+  },
+  "Silver / Lead": {
+    "template": "normal",
+    "block": [
+      {
+        "name": "ElectriCraft:electricraft_block_ore",
+        "metadata": 2
+      },
+      {
+        "name": "ProjRed|Exploration:projectred.exploration.ore",
+        "metadata": 5
+      },
+      {
+        "name": "factorization:ResourceBlock",
+        "metadata": 0
+      },
+      {
+        "name": "ThermalFoundation:Ore",
+        "metadata": 2
+      },
+      {
+        "name": "IC2:blockOreLead",
+        "metadata": 0
+      },
+      {
+        "name": "ThermalFoundation:Ore",
+        "metadata": 3
+      },
+      {
+        "name": "Railcraft:ore",
+        "metadata": 11
+      }
+    ],
+    "clusterSize": 9,
+    "numClusters": 5,
+    "meanHeight": 24,
+    "maxVariance": 6,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1
+    ]
+  },
+  "Tin": {
+    "template": "normal",
+    "block": [
+      {
+        "name": "ElectriCraft:electricraft_block_ore",
+        "metadata": 1
+      },
+      {
+        "name": "Forestry:resources",
+        "metadata": 2
+      },
+      {
+        "name": "IC2:blockOreTin",
+        "metadata": 0
+      },
+      {
+        "name": "ProjRed|Exploration:projectred.exploration.ore",
+        "metadata": 4
+      },
+      {
+        "name": "ThermalFoundation:Ore",
+        "metadata": 1
+      },
+      {
+        "name": "Railcraft:ore",
+        "metadata": 10
+      }
+    ],
+    "clusterSize": 10,
+    "numClusters": 6,
+    "meanHeight": 37,
+    "maxVariance": 7,
+    "retrogen": "true",
+    "biomeRestriction": "none",
+    "biomes": [],
+    "dimensionRestriction": "blacklist",
+    "dimensions": [
+      -1,
+      1
+    ]
+  }
 }
