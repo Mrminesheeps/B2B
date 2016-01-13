@@ -40,6 +40,11 @@
     "qty": 1
   },
   {
+    "input": "ingotObsidian",
+    "output": "Railcraft:dust:0",
+    "qty": 1
+  },
+  {
     "input": "oreArdite",
     "output": "TConstruct:materials:38",
     "qty": 2
@@ -70,6 +75,26 @@
     "qty": 2
   },
   {
+    "input": "oreObsidian",
+    "output": "Railcraft:dust:0",
+    "qty": 2
+  },
+  {
+    "input": "oreSulfur",
+    "output": "Railcraft:dust:1",
+    "qty": 2
+  },
+  {
+    "input": "oreSaltpeter",
+    "output": "Railcraft:dust:2",
+    "qty": 2
+  },
+  {
+    "input": "ingotDiamond",
+    "output": "ElectriCraft:electricraft_item_crafting:1",
+    "qty": 1
+  },
+  {
     "input": "oreSalt",
     "output": "harvestcraft:saltItem:0",
     "qty": 2
@@ -83,6 +108,11 @@
     "input": "ingotMagnesium",
     "output": "Mariculture:materials:13",
     "qty": 1
+  },
+  {
+    "input": "oreAmmonium",
+    "output": "ReactorCraft:reactorcraft_item_raw:3",
+    "qty": 2
   },
   {
     "input": "oreCoal",
@@ -145,7 +175,7 @@
     "qty": 4
   },
   {
-    "input": "blockCloth",
+    "input": "blockWoolWhite",
     "output": "minecraft:string:0",
     "qty": 4
   },

@@ -1,6 +1,9 @@
 {
   "CONFIG_VERSION": 1,
   "modules": {
+    "Natura Forestry Compatibility": {
+      "enabled": true
+    },
     "Natura Thaumcraft Compatibility": {
       "enabled": true
     },
