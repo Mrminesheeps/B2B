@@ -1,18 +1,12 @@
-Total amount of free potion ids: C:\Games\MultiMC\instances\Testing\minecraft\config\AntiIDConflict\potions\avaibleIDs.txt
+Total amount of free potion ids: C:\Users\Dad\Documents\Curse\Minecraft\Instances\Anger Managment\config\AntiIDConflict\potions\avaibleIDs.txt
 List of free potion ids:
 0
-25
-26
-27
-28
-29
 30
 31
 32
 33
 34
 37
-40
 41
 42
 43
@@ -22,6 +16,7 @@ List of free potion ids:
 47
 48
 49
+50
 51
 52
 53
@@ -41,7 +36,6 @@ List of free potion ids:
 67
 68
 69
-70
 71
 72
 73
@@ -55,31 +49,10 @@ List of free potion ids:
 81
 84
 85
-86
-87
 88
-89
-90
 97
 98
 99
-100
-101
-102
-103
-104
-105
-106
-107
-108
-109
-110
-111
-112
-113
-114
-115
-116
 117
 118
 119
@@ -218,3 +191,7 @@ List of free potion ids:
 253
 254
 255
+256
+257
+258
+259

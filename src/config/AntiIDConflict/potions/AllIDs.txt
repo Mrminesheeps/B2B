@@ -1,5 +1,5 @@
-Total amount of free potion ids: 218
-Total amount of occupied potion ids: 38
+Total amount of free potion ids: 195
+Total amount of occupied potion ids: 65
 Total amount of conflicted potion ids: 0
 All ids and their position:
 0 is Avaible
@@ -26,12 +26,12 @@ All ids and their position:
 21 is Occupied by potion.healthBoost (net.minecraft.potion.PotionHealthBoost)
 22 is Occupied by potion.absorption (net.minecraft.potion.PotionAbsoption)
 23 is Occupied by potion.saturation (net.minecraft.potion.PotionHealth)
-24 is Occupied by potion.wellfedPotion (iguanaman.hungeroverhaul.potion.PotionWellFed)
-25 is Avaible
-26 is Avaible
-27 is Avaible
-28 is Avaible
-29 is Avaible
+24 is Occupied by ic2.potion.radiation (ic2.core.IC2Potion)
+25 is Occupied by potion.wellfedPotion (iguanaman.hungeroverhaul.potion.PotionWellFed)
+26 is Occupied by immersiveengineering.potion.flammable (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
+27 is Occupied by immersiveengineering.potion.slippery (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
+28 is Occupied by immersiveengineering.potion.conductive (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
+29 is Occupied by immersiveengineering.potion.sticky (blusunrize.immersiveengineering.common.util.IEPotions$IEPotion)
 30 is Avaible
 31 is Avaible
 32 is Avaible
@@ -42,7 +42,7 @@ All ids and their position:
 37 is Avaible
 38 is Occupied by potion.saturation (Reika.ChromatiCraft.Auxiliary.Potions.PotionBetterSaturation)
 39 is Occupied by potion.regeneration (Reika.ChromatiCraft.Auxiliary.Potions.PotionCustomRegen)
-40 is Avaible
+40 is Occupied by  (Reika.ChromatiCraft.Auxiliary.Potions.PotionLumarhea)
 41 is Avaible
 42 is Avaible
 43 is Avaible
@@ -52,7 +52,7 @@ All ids and their position:
 47 is Avaible
 48 is Avaible
 49 is Avaible
-50 is Occupied by grc.potion.tipsy (growthcraft.cellar.common.potion.PotionCellar)
+50 is Avaible
 51 is Avaible
 52 is Avaible
 53 is Avaible
@@ -72,7 +72,7 @@ All ids and their position:
 67 is Avaible
 68 is Avaible
 69 is Avaible
-70 is Avaible
+70 is Occupied by potion.blood_seal (fox.spiteful.forbidden.potions.PotionBloodSeal)
 71 is Avaible
 72 is Avaible
 73 is Avaible
@@ -88,11 +88,11 @@ All ids and their position:
 83 is Occupied by techno:slowFall (theflogat.technomancy.common.potions.PotionTechnom)
 84 is Avaible
 85 is Avaible
-86 is Avaible
-87 is Avaible
+86 is Occupied by Fire Imbued (thaumic.tinkerer.common.potion.DummyPotions)
+87 is Occupied by Wated Imbued (thaumic.tinkerer.common.potion.DummyPotions)
 88 is Avaible
-89 is Avaible
-90 is Avaible
+89 is Occupied by Earth Imbued (thaumic.tinkerer.common.potion.DummyPotions)
+90 is Occupied by Air Imbued (thaumic.tinkerer.common.potion.DummyPotions)
 91 is Occupied by botania.potion.soulCross (vazkii.botania.common.brew.potion.PotionSoulCross)
 92 is Occupied by botania.potion.featherFeet (vazkii.botania.common.brew.potion.PotionFeatherfeet)
 93 is Occupied by botania.potion.emptiness (vazkii.botania.common.brew.potion.PotionEmptiness)
@@ -102,23 +102,23 @@ All ids and their position:
 97 is Avaible
 98 is Avaible
 99 is Avaible
-100 is Avaible
-101 is Avaible
-102 is Avaible
-103 is Avaible
-104 is Avaible
-105 is Avaible
-106 is Avaible
-107 is Avaible
-108 is Avaible
-109 is Avaible
-110 is Avaible
-111 is Avaible
-112 is Avaible
-113 is Avaible
-114 is Avaible
-115 is Avaible
-116 is Avaible
+100 is Occupied by Drowning (WayofTime.alchemicalWizardry.common.potion.PotionDrowning)
+101 is Occupied by Boost (WayofTime.alchemicalWizardry.common.potion.PotionBoost)
+102 is Occupied by Whirlwind (WayofTime.alchemicalWizardry.common.potion.PotionProjectileProtect)
+103 is Occupied by Inhibit (WayofTime.alchemicalWizardry.common.potion.PotionInhibit)
+104 is Occupied by Flight (WayofTime.alchemicalWizardry.common.potion.PotionFlight)
+105 is Occupied by Reciprocation (WayofTime.alchemicalWizardry.common.potion.PotionReciprocation)
+106 is Occupied by Flame Cloak (WayofTime.alchemicalWizardry.common.potion.PotionFlameCloak)
+107 is Occupied by Ice Cloak (WayofTime.alchemicalWizardry.common.potion.PotionIceCloak)
+108 is Occupied by Heavy Heart (WayofTime.alchemicalWizardry.common.potion.PotionHeavyHeart)
+109 is Occupied by Fire Fuse (WayofTime.alchemicalWizardry.common.potion.PotionFireFuse)
+110 is Occupied by Planar Binding (WayofTime.alchemicalWizardry.common.potion.PotionPlanarBinding)
+111 is Occupied by Soul Fray (WayofTime.alchemicalWizardry.common.potion.PotionSoulFray)
+112 is Occupied by Soul Harden (WayofTime.alchemicalWizardry.common.potion.PotionSoulHarden)
+113 is Occupied by Deafness (WayofTime.alchemicalWizardry.common.potion.PotionDeaf)
+114 is Occupied by Feather Fall (WayofTime.alchemicalWizardry.common.potion.PotionFeatherFall)
+115 is Occupied by Demon Cloaking (WayofTime.alchemicalWizardry.common.potion.PotionDemonCloak)
+116 is Occupied by Amphibian (WayofTime.alchemicalWizardry.common.potion.PotionAmphibian)
 117 is Avaible
 118 is Avaible
 119 is Avaible
@@ -258,3 +258,7 @@ All ids and their position:
 253 is Avaible
 254 is Avaible
 255 is Avaible
+256 is Avaible
+257 is Avaible
+258 is Avaible
+259 is Avaible

@@ -1,4 +1,4 @@
-Total amount of free biome ids: C:\Games\MultiMC\instances\Testing\minecraft\config\AntiIDConflict\biomes\avaibleIDs.txt
+Total amount of free biome ids: C:\Users\Dad\Documents\Curse\Minecraft\Instances\Anger Managment\config\AntiIDConflict\biomes\avaibleIDs.txt
 List of free biome ids:
 40
 41
@@ -58,13 +58,6 @@ List of free biome ids:
 97
 98
 99
-103
-104
-105
-106
-107
-108
-109
 110
 111
 112
@@ -81,8 +74,6 @@ List of free biome ids:
 123
 124
 125
-126
-127
 128
 135
 136
@@ -104,6 +95,7 @@ List of free biome ids:
 159
 168
 169
+170
 171
 172
 173
@@ -174,4 +166,14 @@ List of free biome ids:
 242
 243
 244
+245
+246
+247
+248
+249
+250
+251
+252
+253
+254
 255

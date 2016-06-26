@@ -1,5 +1,5 @@
-Total amount of free biome ids: 175
-Total amount of occupied biome ids: 81
+Total amount of free biome ids: 177
+Total amount of occupied biome ids: 79
 Total amount of conflicted biome ids: 0
 All ids and their position:
 0 is Occupied by Ocean (net.minecraft.world.biome.BiomeGenOcean)
@@ -102,16 +102,16 @@ All ids and their position:
 97 is Avaible
 98 is Avaible
 99 is Avaible
-100 is Occupied by Islands (Reika.ChromatiCraft.World.Dimension.BiomeGenIslands)
-101 is Occupied by Skylands (Reika.ChromatiCraft.World.Dimension.BiomeGenSkylands)
-102 is Occupied by Crystal Plains (Reika.ChromatiCraft.World.Dimension.BiomeGenChromaPlains)
-103 is Avaible
-104 is Avaible
-105 is Avaible
-106 is Avaible
-107 is Avaible
-108 is Avaible
-109 is Avaible
+100 is Occupied by Iridescent Archipelago (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenIslands)
+101 is Occupied by Lumen Skylands (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenSkylands)
+102 is Occupied by Crystal Plains (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenCrystalPlains)
+103 is Occupied by Glowing Forest (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenGlowingForest)
+104 is Occupied by Crystal Forest (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenCrystalForest)
+105 is Occupied by Crystal Mountains (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenChromaMountains)
+106 is Occupied by Aura Ocean (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenChromaOcean)
+107 is Occupied by Structure Field (Reika.ChromatiCraft.World.Dimension.Biome.StructureBiome)
+108 is Occupied by Voidland (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenVoidlands)
+109 is Occupied by Luminescent Sanctuary (Reika.ChromatiCraft.World.Dimension.Biome.BiomeGenCentral)
 110 is Avaible
 111 is Avaible
 112 is Avaible
@@ -128,8 +128,8 @@ All ids and their position:
 123 is Avaible
 124 is Avaible
 125 is Avaible
-126 is Avaible
-127 is Avaible
+126 is Occupied by Ocean Oil Field (buildcraft.energy.worldgen.BiomeGenOilOcean)
+127 is Occupied by Desert Oil Field (buildcraft.energy.worldgen.BiomeGenOilDesert)
 128 is Avaible
 129 is Occupied by Sunflower Plains (net.minecraft.world.biome.BiomeGenPlains)
 130 is Occupied by Desert M (net.minecraft.world.biome.BiomeGenDesert)
@@ -172,7 +172,7 @@ All ids and their position:
 167 is Occupied by Mesa Plateau M (net.minecraft.world.biome.BiomeGenMesa)
 168 is Avaible
 169 is Avaible
-170 is Occupied by BambooForest (growthcraft.bamboo.common.world.BiomeGenBamboo)
+170 is Avaible
 171 is Avaible
 172 is Avaible
 173 is Avaible
@@ -247,14 +247,14 @@ All ids and their position:
 242 is Avaible
 243 is Avaible
 244 is Avaible
-245 is Occupied by Inner Earth (steamcraft.common.worldgen.biomes.BiomeDepthsBase)
-246 is Occupied by Forested Inner Earth (steamcraft.common.worldgen.biomes.BiomeDepthsForest)
-247 is Occupied by Mountainous Inner Earth (steamcraft.common.worldgen.biomes.BiomeDepthsMountains)
-248 is Occupied by Mushroom Forested Inner Earth (steamcraft.common.worldgen.biomes.BiomeDepthsMushrooms)
-249 is Occupied by Infested Inner Earth (steamcraft.common.worldgen.biomes.BiomeDepthsInfestation)
-250 is Occupied by Scalding Springs (steamcraft.common.worldgen.biomes.BiomeDepthsScalded)
-251 is Occupied by Scorched Lands (steamcraft.common.worldgen.biomes.BiomeDepthsScorched)
-252 is Occupied by Swampy Forest (steamcraft.common.worldgen.biomes.BiomeDepthsSwamp)
-253 is Occupied by Towering Forest (steamcraft.common.worldgen.biomes.BiomeDepthsTallForest)
-254 is Occupied by Towering Forest (steamcraft.common.worldgen.biomes.BiomeDepthsTallForest)
+245 is Avaible
+246 is Avaible
+247 is Avaible
+248 is Avaible
+249 is Avaible
+250 is Avaible
+251 is Avaible
+252 is Avaible
+253 is Avaible
+254 is Avaible
 255 is Avaible

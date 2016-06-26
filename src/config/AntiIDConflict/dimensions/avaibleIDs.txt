@@ -1,5 +1,4 @@
 List of avaible dimension ids:
--100
 -99
 -98
 -97
@@ -79,7 +78,6 @@ List of avaible dimension ids:
 -22
 -21
 -20
--19
 -18
 -17
 -16
@@ -91,7 +89,6 @@ List of avaible dimension ids:
 -10
 -9
 -8
--7
 -6
 -5
 -4
@@ -162,6 +159,7 @@ List of avaible dimension ids:
 66
 67
 68
+69
 70
 71
 72

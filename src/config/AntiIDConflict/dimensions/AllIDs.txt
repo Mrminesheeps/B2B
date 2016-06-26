@@ -1,4 +1,4 @@
--100 is Avaible
+-100 is Occupied by: Underdark, Provider: (id: -100, class: class com.rwtema.extrautils.worldgen.Underdark.WorldProviderUnderdark)
 -99 is Avaible
 -98 is Avaible
 -97 is Avaible
@@ -79,7 +79,7 @@
 -22 is Avaible
 -21 is Avaible
 -20 is Avaible
--19 is Avaible
+-19 is Occupied by: Bedrock, Provider: (id: -19, class: class thaumic.tinkerer.common.dim.WorldProviderBedrock)
 -18 is Avaible
 -17 is Avaible
 -16 is Avaible
@@ -91,7 +91,7 @@
 -10 is Avaible
 -9 is Avaible
 -8 is Avaible
--7 is Avaible
+-7 is Occupied by: FZHammer, Provider: (id: -7, class: class factorization.fzds.HammerWorldProvider)
 -6 is Avaible
 -5 is Avaible
 -4 is Avaible
@@ -167,7 +167,7 @@
 66 is Avaible
 67 is Avaible
 68 is Avaible
-69 is Occupied by: Pocket Plane, Provider: (id: 69, class: class com.kentington.thaumichorizons.common.lib.WorldProviderPocketPlane)
+69 is Avaible
 70 is Avaible
 71 is Avaible
 72 is Avaible
